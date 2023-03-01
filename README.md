@@ -1,6 +1,6 @@
  # Cursor control with keyboard keys
  
-<i>Control your cursor with your keyboard keys.</i>
+<i>Python script to control your cursor with your keyboard keys.</i>
 
 <h2>Control:</h2>
 
