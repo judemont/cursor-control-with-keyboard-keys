@@ -12,6 +12,16 @@
 |down arrow | go down|
 |space key|click|
 
-##Getting Started
-Download 
+## Getting Started
+
 `git clone https://github.com/judemont/cursor-control-with-keyboard-keys/`
+
+`cd cursor-control-with-keyboard-keys`
+
+`pip install -R Requirements.txt`
+
+`python3 main.py`
+
+You can specify the sensitivity of the mouse (default value is 30):
+<br>
+`python3 main.py [SENSITIVITY]`
