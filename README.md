@@ -25,3 +25,7 @@
 You can specify the sensitivity of the mouse (default value is 30):
 <br>
 `python3 main.py [SENSITIVITY]`
+
+## Help
+`python3 main.py --help`
+`python3 main.py -h`
