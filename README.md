@@ -11,3 +11,7 @@
 | up arrow | go up|
 |down arrow | go down|
 |space key|click|
+
+##Getting Started
+Download 
+`git clone https://github.com/judemont/cursor-control-with-keyboard-keys/`
