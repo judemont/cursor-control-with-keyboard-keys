@@ -18,7 +18,7 @@
 
 `cd cursor-control-with-keyboard-keys`
 
-`pip install -R Requirements.txt`
+`pip install -r Requirements.txt`
 
 `python3 main.py`
 
